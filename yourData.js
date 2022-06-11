@@ -60,7 +60,7 @@ export default {
       description: "Mock-up design with Figma for full-stack webapp built using React.js, Node.js and MSSQL. The goal of this project was to build a custom application for internal departments of the company to improve communication regarding sales/purchase orders status.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://bnz07pap001files.storage.live.com/y4pZfgmPktc4E3hg0MNCQcIIJ6mSMA9FnWkpTJPCkCBx9wsXRM-yxXRrvBHkzywkS1N2cWXPGkjxx7G848U-e7KC_sMWTzf6e9JDjKpA-n0WdEFpYjolV2IsAQRAZTvXUcHjOsRAp8TQFVSdzZ6RtC0dBf-Sac6i_lXwPeq5WETDyU7UAQUMElGCtkNMxLuw7_V45tZvEjLW3GFuPgkc0vG3WBdz1cQyAzwrbys5Icm0cQ/sap-open-order-01.png?psid=1&width=1316&height=935",
+        "https://raw.githubusercontent.com/rrios4/portfolio-v2/master/assets/sap-open-order-01.png?token=GHSAT0AAAAAABRHTF65HNSYNPETCYDK6O7UYVEAPWA",
       //Project URL - Add Your Project Url Here
       url: "https://www.figma.com/file/yv9erqRSUGQrTtWyS1JEU8/SAP-Open-Orders-Web-App?node-id=0%3A1",
       date: "January 2022 - April 2022",
