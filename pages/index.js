@@ -1,5 +1,6 @@
 import { useRef } from "react";
 import Link from "next/link";
+import Head from 'next/head'
 import Header from "../components/Header";
 import ServiceCard from "../components/ServiceCard";
 import Socials from "../components/Socials";
@@ -32,6 +33,9 @@ export default function Home() {
 
   return (
     <div className="container mx-auto mb-10">
+      <Head>
+        <title>Rogelio's Portfolio</title>
+      </Head>
       <Header
         handleWorkScroll={handleWorkScroll}
         handleAboutScroll={handleAboutScroll}
