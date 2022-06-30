@@ -27,7 +27,7 @@ export default {
         "https://camo.githubusercontent.com/66eb7306f74e6e3e97141c535f6f28aa833d050d3520111d4a72fd48f21b2f80/68747470733a2f2f692e6962622e636f2f66647954777a312f696e74726f64756374696f6e2d696d6167652d322e706e67",
       //Project URL - Add Your Project Url Here
       url: "",
-      date: "May 2022 - Present",
+      date: "June 2022 - Present",
       repoURL: "https://github.com/rrios4/roofing-webapp",
       techIcons: [
         { url: "https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" },
