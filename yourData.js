@@ -24,7 +24,7 @@ export default {
       description: "Currently working on revamping the Roofing Webapp from the ground up with implementation with supabase for the backend, Google Auth, reporting of data, display estimate request from customers from website, capturing materials data. Once completed a release will be created for app on Github. Horizon UI is inspired design on revamp to components. ",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://github.com/rrios4/portfolio-v2/blob/16a1a1ebbb70f4001bdf964a57806aae2154fdb9/assets/est-request-ux.png?raw=true",
+        "https://github.com/rrios4/portfolio-v2/blob/9144080579eaa9efb7f622e7b34f75d143848676/assets/est-request-ux.png?raw=true",
       //Project URL - Add Your Project Url Here
       url: "",
       date: "June 2022 - Present",
