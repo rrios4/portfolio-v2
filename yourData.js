@@ -98,7 +98,7 @@ export default {
       description: "Simple python script that does automatic random searches for the user to earn points and their is a delay for each search in order to prevent Bing from detecting it.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://img5.goodfon.com/wallpaper/nbig/4/b0/logotip-bing-oboi-surface.jpg",
+        "https://github.com/rrios4/portfolio-v2/blob/fa05b30978f2c71cafadffb842ceb6adb9291994/assets/bing-search.png?raw=true",
       //Project URL - Add Your Project Url Here
       url: "",
       date: "November 2021 - November 2021",
