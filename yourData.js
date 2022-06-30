@@ -24,7 +24,7 @@ export default {
       description: "Currently working on revamping the Roofing Webapp from the ground up with implementation with supabase for the backend, Google Auth, reporting of data, display estimate request from customers from website, capturing materials data. Once completed a release will be created for app on Github. Horizon UI is inspired design on revamp to components. ",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://github.com/rrios4/portfolio-v2/blob/9144080579eaa9efb7f622e7b34f75d143848676/assets/est-request-ux.png?raw=true",
+        "https://github.com/rrios4/portfolio-v2/blob/5ee9e811983340297a52ac46f5c46005b64f2ffd/assets/est-request-ux.png?raw=true",
       //Project URL - Add Your Project Url Here
       url: "",
       date: "June 2022 - Present",
@@ -114,7 +114,7 @@ export default {
       description: "5 Serverless functions written in javascript that automate XML data transformation from SAP to Ceridian and vice versa. Data was captured converted to JSON saved to MSSQL database and the recontructed in XML format for SAP/Ceridian to read.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://pbs.twimg.com/media/DcHuwgmWsAAdgc0.jpg",
+        "https://inbadge.com/wp-content/uploads/2019/11/dayforcehcm.com-mydayforce-login.png",
       //Project URL - Add Your Project Url Here
       url: "https://www.figma.com/file/yv9erqRSUGQrTtWyS1JEU8/SAP-Open-Orders-Web-App?node-id=0%3A1",
       date: "June 2021 - September 2021",
