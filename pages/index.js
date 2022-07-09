@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <div className="container mx-auto mb-10">
       <Head>
-        <title>Rogelio Rios Portfolio</title>
+        <title>RR Portfolio</title>
       </Head>
       <Header
         handleWorkScroll={handleWorkScroll}
