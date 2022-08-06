@@ -20,8 +20,8 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Roofing Invoice/Estimate Webapp v2.0", //Project Title - Add Your Project Title Here
-      description: "Currently working on revamping the Roofing Webapp from the ground up with implementation with supabase for the backend, Google Auth, reporting of data, display estimate request from customers from website, capturing materials data. Once completed a release will be created for app on Github. Horizon UI is inspired design on revamp to components. ",
+      title: "Roofing Management System v2.0", //Project Title - Add Your Project Title Here
+      description: "An iteration of the original Roofing Invoice/Estimate form May 2021 to improve original capabilities, new UX to display/manage data, reporting of data through a dashboard, and implementation of estimate requests from web site to better acomadates the business needs.",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://github.com/rrios4/portfolio-v2/blob/master/assets/est-request-ux-03.png?raw=true",
@@ -76,39 +76,39 @@ export default {
       ],
       active: true,
     },
-    {
-      title: "Microcenter DDR5 Stock Notification", //Project Title - Add Your Project Title Here
-      description: "Javascript function using Puppetier scrapes the Microcenter web page of DDR5 products. When the item is in stock it will execute a discord webhook to a channel to notify users.",
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://wallpaperaccess.com/full/3053365.jpg",
-      //Project URL - Add Your Project Url Here
-      url: "",
-      date: "November 2021 - December 2021",
-      repoURL: "https://github.com/rrios4/mc-bot",
-      techIcons: [
-        { url: "https://w7.pngwing.com/pngs/780/57/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark.png" },
-        { url: "https://nitayneeman.com/images/thumbnails/puppeteer.jpg" },
-        { url: "https://e7.pngegg.com/pngimages/25/394/png-clipart-webhook-computer-icons-discord-application-programming-interface-others-miscellaneous-text.png" },
-      ],
-      active: "",
-    },
-    {
-      title: "Bing Daily Searcher", //Project Title - Add Your Project Title Here
-      description: "Simple python script that does automatic random searches for the user to earn points and their is a delay for each search in order to prevent Bing from detecting it.",
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://github.com/rrios4/portfolio-v2/blob/fa05b30978f2c71cafadffb842ceb6adb9291994/assets/bing-search.png?raw=true",
-      //Project URL - Add Your Project Url Here
-      url: "",
-      date: "November 2021 - November 2021",
-      repoURL: "https://github.com/rrios4/bing-searcher",
-      techIcons: [
-        { url: "https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" },
-        { url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/768px-Google_Chrome_icon_%28February_2022%29.svg.png" },
-      ],
-      active: "",
-    },
+    // {
+    //   title: "Microcenter DDR5 Stock Notification", //Project Title - Add Your Project Title Here
+    //   description: "Javascript function using Puppetier scrapes the Microcenter web page of DDR5 products. When the item is in stock it will execute a discord webhook to a channel to notify users.",
+    //   //Project Image - Add Your Project Image Here
+    //   imageSrc:
+    //     "https://wallpaperaccess.com/full/3053365.jpg",
+    //   //Project URL - Add Your Project Url Here
+    //   url: "",
+    //   date: "November 2021 - December 2021",
+    //   repoURL: "https://github.com/rrios4/mc-bot",
+    //   techIcons: [
+    //     { url: "https://w7.pngwing.com/pngs/780/57/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark.png" },
+    //     { url: "https://nitayneeman.com/images/thumbnails/puppeteer.jpg" },
+    //     { url: "https://e7.pngegg.com/pngimages/25/394/png-clipart-webhook-computer-icons-discord-application-programming-interface-others-miscellaneous-text.png" },
+    //   ],
+    //   active: "",
+    // },
+    // {
+    //   title: "Bing Daily Searcher", //Project Title - Add Your Project Title Here
+    //   description: "Simple python script that does automatic random searches for the user to earn points and their is a delay for each search in order to prevent Bing from detecting it.",
+    //   //Project Image - Add Your Project Image Here
+    //   imageSrc:
+    //     "https://github.com/rrios4/portfolio-v2/blob/fa05b30978f2c71cafadffb842ceb6adb9291994/assets/bing-search.png?raw=true",
+    //   //Project URL - Add Your Project Url Here
+    //   url: "",
+    //   date: "November 2021 - November 2021",
+    //   repoURL: "https://github.com/rrios4/bing-searcher",
+    //   techIcons: [
+    //     { url: "https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" },
+    //     { url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/768px-Google_Chrome_icon_%28February_2022%29.svg.png" },
+    //   ],
+    //   active: "",
+    // },
     {
       title: "Cooper Ceridian Integration", //Project Title - Add Your Project Title Here
       description: "5 Serverless functions written in javascript that automate XML data transformation from SAP to Ceridian and vice versa. Data was captured converted to JSON saved to MSSQL database and the recontructed in XML format for SAP/Ceridian to read.",
@@ -130,7 +130,7 @@ export default {
       active: "",
     },
     {
-      title: "Roofing Invoice/Estimate Webapp", //Project Title - Add Your Project Title Here
+      title: "Roofing Management System Webapp", //Project Title - Add Your Project Title Here
       description: "An application for a client that will help them improve their current business process within the company. My team CoogTech Consulting used knowledge areas for project management to document our project process from beginning to end. The application will help the client to manage invoices, estimates, material lists, job schedules, customers, and employees.",
       //Project Image - Add Your Project Image Here
       imageSrc:
