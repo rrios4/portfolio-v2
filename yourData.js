@@ -153,7 +153,7 @@ export default {
       description: "The goal of this project was to make a single-page full-stack web project that performs the task of user registration/authentication, perform CRUD operations, and reflect CRUD operations. I used Trello to orginize the features I want to add into the application and used Framer to design the application. The user will be able to keep track of anime they are warching and direct them to watch them online.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://rrios4.github.io/Portfolio/assets/home_page.jpeg",
+        "https://github.com/rrios4/portfolio-v2/blob/master/assets/animebinx-webapp-promo.png?raw=true",
       //Project URL - Add Your Project Url Here
       url: "https://anime-tracker-01.herokuapp.com/page/",
       date: "October 2020 - November 2020",
