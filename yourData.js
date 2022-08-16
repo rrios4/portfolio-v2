@@ -24,7 +24,7 @@ export default {
       description: "An iteration of the original Roofing Invoice/Estimate form May 2021 to improve original capabilities, new UX to display/manage data, reporting of data through a dashboard, and implementation of estimate requests from web site to better acomadates the business needs.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://raw.githubusercontent.com/rrios4/portfolio-v2/0f7982258befe36f97106a1775cb2370b63b1275/assets/roofing-webapp-promo.png",
+        "https://github.com/rrios4/portfolio-v2/blob/master/assets/roofing-webapp-promo.png?raw=true",
       //Project URL - Add Your Project Url Here
       url: "",
       date: "June 2022 - Present",
@@ -60,7 +60,7 @@ export default {
       description: "Mock-up design with Figma for full-stack webapp built using React.js, Node.js and MSSQL. The goal of this project was to build a custom application for internal departments of the company to improve communication regarding sales/purchase orders status.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://raw.githubusercontent.com/rrios4/portfolio-v2/3c12f0761fcd676d25b8723b65a89abaa59bd21b/assets/cooper-sap-order-tracker-promo.png",
+        "https://github.com/rrios4/portfolio-v2/blob/master/assets/cooper-sap-order-tracker-promo.png?raw=true",
       //Project URL - Add Your Project Url Here
       url: "https://www.figma.com/file/yv9erqRSUGQrTtWyS1JEU8/SAP-Open-Orders-Web-App?node-id=0%3A1",
       date: "January 2022 - April 2022",
