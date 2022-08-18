@@ -114,7 +114,7 @@ export default {
       description: "5 Serverless functions written in javascript that automate XML data transformation from SAP to Ceridian and vice versa. Data was captured converted to JSON saved to MSSQL database and the recontructed in XML format for SAP/Ceridian to read.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://inbadge.com/wp-content/uploads/2019/11/dayforcehcm.com-mydayforce-login.png",
+        "https://github.com/rrios4/portfolio-v2/blob/master/assets/ceridian-integration-promo.png?raw=true",
       //Project URL - Add Your Project Url Here
       url: "https://www.figma.com/file/yv9erqRSUGQrTtWyS1JEU8/SAP-Open-Orders-Web-App?node-id=0%3A1",
       date: "June 2021 - September 2021",
