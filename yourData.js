@@ -134,7 +134,7 @@ export default {
       description: "An application for a client that will help them improve their current business process within the company. My team CoogTech Consulting used knowledge areas for project management to document our project process from beginning to end. The application will help the client to manage invoices, estimates, material lists, job schedules, customers, and employees.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://rrios4.github.io/Portfolio/assets/invoice.png",
+        "https://github.com/rrios4/portfolio-v2/blob/master/assets/roofing-webapp-v1-promo.png?raw=true",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/rrios4/roofing-webapp",
       date: "January 2021 - May 2021",
