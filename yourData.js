@@ -20,11 +20,11 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Roofing Management System v2.0", //Project Title - Add Your Project Title Here
+      title: "Roofing Webapp v2.0", //Project Title - Add Your Project Title Here
       description: "An iteration of the original Roofing Invoice/Estimate form May 2021 to improve original capabilities, new UX to display/manage data, reporting of data through a dashboard, and implementation of estimate requests from web site to better acomadates the business needs.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://github.com/rrios4/portfolio-v2/blob/master/assets/roofing-webapp-promo.png?raw=true",
+        "https://github.com/rrios4/portfolio-v2/blob/master/assets/projects/roofingv2-webapp-poster.png?raw=true",
       //Project URL - Add Your Project Url Here
       url: "",
       date: "June 2022 - Present",
