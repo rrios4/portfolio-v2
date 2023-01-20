@@ -6,7 +6,7 @@ export default {
   name: "Rogelio",
   headerTaglineOne: "Hello 👋",
   headerTaglineTwo:
-    "I'm Rogelio Rios - passionate full-stack developer based in Houston, Texas. ",
+    "I'm Rogelio Rios, a software engineer, product designer, and maker.",
 
   socials: [
     { title: "Github", link: "https://github.com/rrios4" },
@@ -21,7 +21,7 @@ export default {
   projects: [
     {
       title: "Roofing Webapp v2.0", //Project Title - Add Your Project Title Here
-      description: "An iteration of the original Roofing Invoice/Estimate form May 2021 to improve original capabilities, new UX to display/manage data, reporting of data through a dashboard, and implementation of estimate requests from web site to better acomadates the business needs.",
+      description: "Introducing the latest iteration of our Roofing Admin App, designed to take your business to the next level with new features and improvements such as a user-friendly interface for easy access, management, and reporting of data, real-time insights through a dashboard, and a new estimate request feature from the website to better accommodate your clients' needs. This software will revolutionize the way you manage your data, streamline your workflow, increase efficiency and help you make better decisions, don't miss out on this opportunity to take your business to the next level",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://github.com/rrios4/portfolio-v2/blob/master/assets/projects/roofingv2-webapp-poster.png?raw=true",
@@ -39,7 +39,7 @@ export default {
     },
     {
       title: "Roofing Landing Webpage", //Project Title - Add Your Project Title Here
-      description: "An  application for client that will be used to promote the companies business and capture customer estimate request for a new job estimate. The application will help the client promote their company and schedule estimates with customers while at the sames time implementing with the Roofing Webapp 2021 to display upcoming estimate request.",
+      description: "Introducing a powerful new tool for your business - our custom-built client application! This innovative solution is specifically designed to help you promote your company and capture customer quote requests for new jobs. With this application, you'll be able to effectively promote your business, schedule quotes with customers, and it is also seamlessly integrated with our Roofing Webapp v2.0, providing you with a comprehensive solution to streamline your workflow and increase efficiency.",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://rrios4.github.io/Portfolio/assets/rios-roofing-website-preview.png",
@@ -57,7 +57,7 @@ export default {
     },
     {
       title: "Cooper SAP Open Sales Orders", //Project Title - Add Your Project Title Here
-      description: "Mock-up design with Figma for full-stack webapp built using React.js, Node.js and MSSQL. The goal of this project was to build a custom application for internal departments of the company to improve communication regarding sales/purchase orders status.",
+      description: "At a previous role in an oil and gas company, I had the opportunity to design and develop a custom web application to improve communication within internal departments. The application stack was React.js, Node.js, and MSSQL, and utilized Figma for mock-up design. The goal of the project was to streamline the process of tracking SAP Orders and updating the status of sales and purchase orders, which resulted in an efficient and user-friendly solution. This experience has provided me with a deep understanding of the unique needs and challenges faced by companies in the oil and gas industry, and I am confident in my ability to deliver custom solutions that can improve internal communication and overall efficiency.",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://github.com/rrios4/portfolio-v2/blob/master/assets/cooper-sap-order-tracker-promo.png?raw=true",
@@ -111,7 +111,7 @@ export default {
     // },
     {
       title: "Cooper Ceridian Integration", //Project Title - Add Your Project Title Here
-      description: "5 Serverless functions written in javascript that automate XML data transformation from SAP to Ceridian and vice versa. Data was captured converted to JSON saved to MSSQL database and the recontructed in XML format for SAP/Ceridian to read.",
+      description: "At a previous role, I had the opportunity to work on automating data transformation for an oil and gas company. I wrote serverless functions using JavaScript to automate the process of transforming XML data from SAP to Ceridian and vice versa. The functions captured data, converted it to JSON, saved it to a MSSQL database and then reconstructed it in XML format for SAP/Ceridian to read. This experience allowed me to gain a deep understanding of data transformation challenges in the oil and gas industry and the ability to design and develop solutions that can automate these processes and improve the overall efficiency of the company.",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://github.com/rrios4/portfolio-v2/blob/master/assets/ceridian-integration-promo.png?raw=true",
@@ -131,7 +131,7 @@ export default {
     },
     {
       title: "Roofing Management System Webapp", //Project Title - Add Your Project Title Here
-      description: "An application for a client that will help them improve their current business process within the company. My team CoogTech Consulting used knowledge areas for project management to document our project process from beginning to end. The application will help the client to manage invoices, estimates, material lists, job schedules, customers, and employees.",
+      description: "As the lead developer and solution architect, I had the privilege of leading a team at CoogTech Consulting to design and develop a custom application for a client aimed at improving their business processes within the company. My team and I leveraged our expertise in software development and project management to document our project process from initiation to completion. Together we were able to deliver a comprehensive solution that helped the client effectively manage invoices, estimates, material lists, job schedules, customers, and employees. My leadership skills, technical expertise and team collaboration allowed us to exceed the client's expectations and deliver a successful project",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://github.com/rrios4/portfolio-v2/blob/master/assets/roofing-webapp-v1-promo.png?raw=true",
@@ -150,7 +150,7 @@ export default {
     },
     {
       title: "Anime BinX", //Project Title - Add Your Project Title Here
-      description: "The goal of this project was to make a single-page full-stack web project that performs the task of user registration/authentication, perform CRUD operations, and reflect CRUD operations. I used Trello to orginize the features I want to add into the application and used Framer to design the application. The user will be able to keep track of anime they are warching and direct them to watch them online.",
+      description: "I developed a full-stack single-page web application that enables user registration and authentication, CRUD operations, and real-time reflection of these operations. Utilizing project management tools such as Trello, I organized the implementation of features to ensure the successful delivery of the project. Additionally, I employed user-centered design principles utilizing Framer to create an intuitive and visually appealing interface. The end result was an application that allows users to track their anime viewing progress and access viewing options directly. My technical expertise in web development and project management, in conjunction with my attention to user experience and design, resulted in a high-quality, user-friendly application that effectively meets the needs of its users.",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://github.com/rrios4/portfolio-v2/blob/master/assets/animebinx-webapp-promo.png?raw=true",
@@ -220,30 +220,36 @@ export default {
     {
       title: "Frontend Development",
       description:
-        "I can help with building client side SPA for customers to integrate with their backend with frameworks such as Next.js, React.js, and Vue.js. ",
+        "I possess the expertise to design and develop client-side, single-page applications (SPA) for customers to seamlessly integrate with their backend systems. I am proficient in utilizing modern front-end frameworks such as React.js, Next.js and Vue.js to deliver high-performance and user-friendly solutions that meet the specific needs of the client.",
     },
     {
       title: "Backend Development",
       description:
-        "I can help with building API endpoints from database to allow CRUD operations to be possible for the customer or custom actions based on customer needs.",
+        "I have the capability to design and develop API endpoints that connect to databases, enabling CRUD operations and custom actions based on the specific needs of the customer. I am experienced in utilizing various technologies to create efficient and secure API endpoints that provide seamless integration with the customer's backend systems.",
     },
     {
       title: "System Analysis",
       description:
-        "I can help identify business needs based on requirement gathering process and turn them to software requirement in order to provide the most helpful system solution to the customer.",
+        "I possess the ability to proficiently identify and analyze business needs through a comprehensive requirement gathering process, and translate them into specific software requirements. This enables me to deliver a tailored system solution that effectively addresses the unique needs of the customer.",
     },
     {
       title: "Database Development",
       description:
-        "I can help turn software requirements to a scalable database that is able to store date from identifying the data stores using Data Flow Diagrams to Defining relationships with entities using Entity Relationship Diagrams.",
+        "I have the ability to translate software requirements into a scalable database design, through the use of data flow diagrams to identify data stores and entity-relationship diagrams to define relationships between entities. I am well-versed in utilizing industry-standard techniques to create robust and efficient databases that can effectively store and manage data according to the customer's needs.",
     },
   ],
 
   // End Services Section --------------------------
 
   // About Secton --------------
-  aboutpara:
-    "Hello, ever since 2019 when I took my first web development class at the University of Houston I fell in love with development but was unsure at the time how to make full blown apps from them. Then in 2020 when I took my advance app development class thats where I learned about REST API's, connecting databases to backend, and hosting to AWS it started rolling for me. After that I eventually learned abour Node.js and Vue which confirmed to me that this is what I want to do since I enjoy it so much. Always looking to learn new things and for great opportunities that allow me to do so. Thank you!",
+  aboutpara: [
+    {
+      paragraph: "Ever since I took my first web development class at the University of Houston in 2019, I've been hooked on the world of software engineering. At first, I wasn't sure how to take my newfound passion and turn it into something tangible, but that all changed in 2020 when I took an advanced app development class. That's where I learned about building REST APIs, connecting databases to the backend, and hosting on AWS. It was like a lightbulb went off and everything started to fall into place."
+    },
+    {
+      paragraph: "As I continued to learn and grow, I discovered Node.js and Vue, which solidified my decision to pursue a career in software engineering. I have a true passion for this field and I'm always looking for new opportunities to learn and grow. I'm excited to see what the future holds and I'm open to any and all opportunities that will allow me to continue learning and improving my skills."
+    }
+  ]
   //   End About Section ---------------------
 };
 
