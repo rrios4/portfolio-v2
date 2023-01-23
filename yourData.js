@@ -134,7 +134,7 @@ export default {
       description: "As the lead developer and solution architect, I had the privilege of leading a team at CoogTech Consulting to design and develop a custom application for a client aimed at improving their business processes within the company. My team and I leveraged our expertise in software development and project management to document our project process from initiation to completion. Together we were able to deliver a comprehensive solution that helped the client effectively manage invoices, estimates, material lists, job schedules, customers, and employees. My leadership skills, technical expertise and team collaboration allowed us to exceed the client's expectations and deliver a successful project",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://github.com/rrios4/portfolio-v2/blob/master/assets/roofing-webapp-v1-promo.png?raw=true",
+        "/posters/roofingv1-webapp-poster.png",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/rrios4/roofing-webapp",
       date: "January 2021 - May 2021",
