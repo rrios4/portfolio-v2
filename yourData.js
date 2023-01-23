@@ -24,7 +24,7 @@ export default {
       description: "Introducing the latest iteration of our Roofing Admin App, designed to take your business to the next level with new features and improvements such as a user-friendly interface for easy access, management, and reporting of data, real-time insights through a dashboard, and a new estimate request feature from the website to better accommodate your clients' needs. This software will revolutionize the way you manage your data, streamline your workflow, increase efficiency and help you make better decisions, don't miss out on this opportunity to take your business to the next level",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://github.com/rrios4/portfolio-v2/blob/master/assets/projects/roofingv2-webapp-poster.png?raw=true",
+        "/posters/roofingv2-webapp-poster.png",
       //Project URL - Add Your Project Url Here
       url: "",
       date: "June 2022 - Present",
@@ -42,11 +42,11 @@ export default {
       description: "Introducing a powerful new tool for your business - our custom-built client application! This innovative solution is specifically designed to help you promote your company and capture customer quote requests for new jobs. With this application, you'll be able to effectively promote your business, schedule quotes with customers, and it is also seamlessly integrated with our Roofing Webapp v2.0, providing you with a comprehensive solution to streamline your workflow and increase efficiency.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://rrios4.github.io/Portfolio/assets/rios-roofing-website-preview.png",
+        "/posters/roofingv2-website-poster.png",
       //Project URL - Add Your Project Url Here
-      url: "https://rios-roofing-landing-page-5rr7tku1d-rrios4.vercel.app/",
+      url: "https://rios-roofing-landing-page.vercel.app/",
       date: "May 2022 - June 2022",
-      repoURL: "https://github.com/rrios4/rios-roofing-landing-page",
+      repoURL: "",
       techIcons: [
         { url: "https://static.cdnlogo.com/logos/n/80/next-js.svg" },
         { url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333" },
@@ -60,7 +60,7 @@ export default {
       description: "At a previous role in an oil and gas company, I had the opportunity to design and develop a custom web application to improve communication within internal departments. The application stack was React.js, Node.js, and MSSQL, and utilized Figma for mock-up design. The goal of the project was to streamline the process of tracking SAP Orders and updating the status of sales and purchase orders, which resulted in an efficient and user-friendly solution. This experience has provided me with a deep understanding of the unique needs and challenges faced by companies in the oil and gas industry, and I am confident in my ability to deliver custom solutions that can improve internal communication and overall efficiency.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://github.com/rrios4/portfolio-v2/blob/master/assets/cooper-sap-order-tracker-promo.png?raw=true",
+        "/posters/cooper-sap-order-tracker-poster.png",
       //Project URL - Add Your Project Url Here
       url: "https://www.figma.com/file/yv9erqRSUGQrTtWyS1JEU8/SAP-Open-Orders-Web-App?node-id=0%3A1",
       date: "January 2022 - April 2022",
@@ -114,7 +114,7 @@ export default {
       description: "At a previous role, I had the opportunity to work on automating data transformation for an oil and gas company. I wrote serverless functions using JavaScript to automate the process of transforming XML data from SAP to Ceridian and vice versa. The functions captured data, converted it to JSON, saved it to a MSSQL database and then reconstructed it in XML format for SAP/Ceridian to read. This experience allowed me to gain a deep understanding of data transformation challenges in the oil and gas industry and the ability to design and develop solutions that can automate these processes and improve the overall efficiency of the company.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://github.com/rrios4/portfolio-v2/blob/master/assets/ceridian-integration-promo.png?raw=true",
+        "/posters/ceridian-integration-poster.png",
       //Project URL - Add Your Project Url Here
       url: "https://www.figma.com/file/yv9erqRSUGQrTtWyS1JEU8/SAP-Open-Orders-Web-App?node-id=0%3A1",
       date: "June 2021 - September 2021",
@@ -153,7 +153,7 @@ export default {
       description: "I developed a full-stack single-page web application that enables user registration and authentication, CRUD operations, and real-time reflection of these operations. Utilizing project management tools such as Trello, I organized the implementation of features to ensure the successful delivery of the project. Additionally, I employed user-centered design principles utilizing Framer to create an intuitive and visually appealing interface. The end result was an application that allows users to track their anime viewing progress and access viewing options directly. My technical expertise in web development and project management, in conjunction with my attention to user experience and design, resulted in a high-quality, user-friendly application that effectively meets the needs of its users.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://github.com/rrios4/portfolio-v2/blob/master/assets/animebinx-webapp-promo.png?raw=true",
+        "/posters/animebinx-webapp-promo.png",
       //Project URL - Add Your Project Url Here
       url: "https://anime-tracker-01.herokuapp.com/page/",
       date: "October 2020 - November 2020",
