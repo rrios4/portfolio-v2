@@ -56,7 +56,7 @@ export default {
       active: true,
     },
     {
-      title: "Cooper SAP Open Sales Orders", //Project Title - Add Your Project Title Here
+      title: "SAP Sales Orders Case Study", //Project Title - Add Your Project Title Here
       description: "At a previous role in an oil and gas company, I had the opportunity to design and develop a custom web application to improve communication within internal departments. The application stack was React.js, Node.js, and MSSQL, and utilized Figma for mock-up design. The goal of the project was to streamline the process of tracking SAP Orders and updating the status of sales and purchase orders, which resulted in an efficient and user-friendly solution. This experience has provided me with a deep understanding of the unique needs and challenges faced by companies in the oil and gas industry, and I am confident in my ability to deliver custom solutions that can improve internal communication and overall efficiency.",
       //Project Image - Add Your Project Image Here
       imageSrc:
@@ -110,7 +110,7 @@ export default {
     //   active: "",
     // },
     {
-      title: "Cooper Ceridian Integration", //Project Title - Add Your Project Title Here
+      title: "Cooper/Ceridian Integration", //Project Title - Add Your Project Title Here
       description: "At a previous role, I had the opportunity to work on automating data transformation for an oil and gas company. I wrote serverless functions using JavaScript to automate the process of transforming XML data from SAP to Ceridian and vice versa. The functions captured data, converted it to JSON, saved it to a MSSQL database and then reconstructed it in XML format for SAP/Ceridian to read. This experience allowed me to gain a deep understanding of data transformation challenges in the oil and gas industry and the ability to design and develop solutions that can automate these processes and improve the overall efficiency of the company.",
       //Project Image - Add Your Project Image Here
       imageSrc:
@@ -130,7 +130,7 @@ export default {
       active: "",
     },
     {
-      title: "Roofing Management System Webapp", //Project Title - Add Your Project Title Here
+      title: "Roofing Company Webapp", //Project Title - Add Your Project Title Here
       description: "As the lead developer and solution architect, I had the privilege of leading a team at CoogTech Consulting to design and develop a custom application for a client aimed at improving their business processes within the company. My team and I leveraged our expertise in software development and project management to document our project process from initiation to completion. Together we were able to deliver a comprehensive solution that helped the client effectively manage invoices, estimates, material lists, job schedules, customers, and employees. My leadership skills, technical expertise and team collaboration allowed us to exceed the client's expectations and deliver a successful project",
       //Project Image - Add Your Project Image Here
       imageSrc:
