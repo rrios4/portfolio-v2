@@ -27,7 +27,7 @@ export default {
         "/posters/roofingv2-webapp-poster.png",
       //Project URL - Add Your Project Url Here
       url: "",
-      date: "June 2022 - Present",
+      date: "June 2022 - March 2023",
       repoURL: "https://github.com/rrios4/roofing-webapp",
       techIcons: [
         { url: "https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" },
@@ -44,7 +44,7 @@ export default {
       imageSrc:
         "/posters/roofingv2-website-poster.png",
       //Project URL - Add Your Project Url Here
-      url: "https://rios-roofing-landing-page.vercel.app/",
+      url: "https://rios-roofing.com",
       date: "May 2022 - June 2022",
       repoURL: "",
       techIcons: [
