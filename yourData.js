@@ -20,7 +20,25 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Roofing Webapp v2.0", //Project Title - Add Your Project Title Here
+      title: "Alexis&Co Drops", //Project Title - Add Your Project Title Here
+      description: "Client wanted to market his custom apperal with his own website. With the use of Next.js, Contenful, and Mailchimp now he is able to market, promote, and have way to reach out his audince with ease. The custom route allows him to save up to $860 every year compared to using Wordpress, or Wix and depend on them for the rest of the business.",
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "/posters/alexisnco-homepage-poster-01.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://alexisncompany.com",
+      date: "March 2023",
+      repoURL: "",
+      techIcons: [
+        { url: "https://static-00.iconduck.com/assets.00/next-js-icon-256x256-6j7ddke7.png" },
+        { url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333" },
+        { url: "https://img.stackshare.io/service/672/default_622e25ec0417ac85db5b66ca399528b101ba284f.png" },
+        { url: "https://s3.amazonaws.com/www-inside-design/uploads/2018/10/mailchimp-sq-810x810.jpg" },
+      ],
+      active: true,
+    },
+    {
+      title: "Roofing Admin Webapp v2.0", //Project Title - Add Your Project Title Here
       description: "Introducing the latest iteration of our Roofing Admin App, designed to take your business to the next level with new features and improvements such as a user-friendly interface for easy access, management, and reporting of data, real-time insights through a dashboard, and a new estimate request feature from the website to better accommodate your clients' needs. This software will revolutionize the way you manage your data, streamline your workflow, increase efficiency and help you make better decisions, don't miss out on this opportunity to take your business to the next level",
       //Project Image - Add Your Project Image Here
       imageSrc:
@@ -32,7 +50,7 @@ export default {
       techIcons: [
         { url: "https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" },
         { url: "https://avatars.githubusercontent.com/u/54212428?s=280&v=4" },
-        { url: "https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" },
+        { url: "https://pipedream.com/s.v0/app_1dBhP3/logo/96" },
         { url: "" },
       ],
       active: "",
@@ -57,7 +75,7 @@ export default {
     },
     {
       title: "SAP Sales Orders Case Study", //Project Title - Add Your Project Title Here
-      description: "At a previous role in an oil and gas company, I had the opportunity to design and develop a custom web application to improve communication within internal departments. The application stack was React.js, Node.js, and MSSQL, and utilized Figma for mock-up design. The goal of the project was to streamline the process of tracking SAP Orders and updating the status of sales and purchase orders, which resulted in an efficient and user-friendly solution. This experience has provided me with a deep understanding of the unique needs and challenges faced by companies in the oil and gas industry, and I am confident in my ability to deliver custom solutions that can improve internal communication and overall efficiency.",
+      description: "As a solo software engineer at an oil and gas company, I had the opportunity to design and initiate the development of a custom web application to improve communication within internal departments. The goal of the project was to streamline the process of tracking SAP Orders and updating the status of sales and purchase orders reducing the amount of time needed to get information out to the customer and reduce confusion.",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "/posters/cooper-sap-order-tracker-poster.png",
@@ -130,7 +148,7 @@ export default {
       active: "",
     },
     {
-      title: "Roofing Company Webapp", //Project Title - Add Your Project Title Here
+      title: "Roofing Admin Webapp", //Project Title - Add Your Project Title Here
       description: "As the lead developer and solution architect, I had the privilege of leading a team at CoogTech Consulting to design and develop a custom application for a client aimed at improving their business processes within the company. My team and I leveraged our expertise in software development and project management to document our project process from initiation to completion. Together we were able to deliver a comprehensive solution that helped the client effectively manage invoices, estimates, material lists, job schedules, customers, and employees. My leadership skills, technical expertise and team collaboration allowed us to exceed the client's expectations and deliver a successful project",
       //Project Image - Add Your Project Image Here
       imageSrc:
