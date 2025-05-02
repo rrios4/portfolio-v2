@@ -34,7 +34,7 @@ const WorkCard = ({
       <h2 className="text-lg opacity-70">{date ? date : "Project Date"}</h2>
       <div className="flex my-1 space-x-[1rem] w-[40px] h-[35px]">
         {techIcons?.map((icon, index) => (
-          <>
+          <React.Fragment key={index}>
             {icon ? (
               <img
                 key={index}
@@ -44,7 +44,7 @@ const WorkCard = ({
             ) : (
               ""
             )}
-          </>
+          </React.Fragment>
         ))}
       </div>
       <h2 className="text-xl opacity-50">
